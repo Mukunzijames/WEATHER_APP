@@ -36,8 +36,6 @@ Following weather data must be included in all the prototypes;
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sthabiraj/Weather-App)
-- Live Site URL: [Add live site URL here](http://20.192.26.133/)
 
 ## My process
 
@@ -49,7 +47,3 @@ Following weather data must be included in all the prototypes;
 - PHP
 - MySQL Database
 
-## Author
-
-- Website - [Biraj Shrestha](https://sthabiraj.github.io/My-Portfolio/)
-- Frontend Mentor - [@Sthabiraj](https://www.frontendmentor.io/profile/Sthabiraj)
